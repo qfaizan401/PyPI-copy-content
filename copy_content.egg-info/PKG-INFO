@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: copy-content
-Version: 1.0.0
+Version: 1.0.1
 Summary: This package is an automated tool for coping multiple files one folder/directory to another with your desired extension.
 Home-page: https://github.com/qfaizan401/pyPackage-copy-contain
 Author: Muhammad Faizan Qureshi
