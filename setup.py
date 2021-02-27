@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="copy-content",
-    version="1.0.1",
+    version="1.0.2",
     author="Muhammad Faizan Qureshi",
     author_email="qfaizan401@gmail.com",
     description="This package is an automated tool for coping multiple files one folder/directory to another with your desired extension.",
@@ -23,9 +23,4 @@ setuptools.setup(
     ],
     packages=setuptools.find_packages(),
     python_requires=">=3.6",
-    entry_points={
-        "console_script":[
-            "copy_content=copy_content.__main__:main"
-        ]
-    }
 )
